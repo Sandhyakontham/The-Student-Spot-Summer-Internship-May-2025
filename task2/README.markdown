@@ -4,7 +4,7 @@
 
 This project implements an image classification model using TensorFlow to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset contains 60,000 32x32 color images across 10 classes, with 50,000 images for training and 10,000 for testing. The goal is to build, train, and evaluate a Convolutional Neural Network (CNN) to accurately classify these images into one of the 10 categories: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, and Truck.
 
-The project is documented in a Jupyter notebook (`index.ipynb`), which includes data loading, preprocessing, model building, training, evaluation, and visualization of results using a confusion matrix heatmap.
+The project is documented in a google colab (`index.ipynb`), which includes data loading, preprocessing, model building, training, evaluation, and visualization of results using a confusion matrix heatmap.
 
 ## Prerequisites
 
